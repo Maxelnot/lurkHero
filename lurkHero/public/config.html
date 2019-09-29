@@ -21,17 +21,26 @@
             <label>Message Color</label>
             <input name="Color Picker" type="color" />
         </div>
-        <label>Level Icons</label>
-        <select name="frequency">
-          <option value="1lvl">Every 1 level</option>
-          <option value="5lvls">Every 5 levels</option>
-          <option value="10lvls">Every 10 levels</option>
-          <option value="Custom">Custom...</option>
+        <div class="lvl-icons">Level Icons
+            <div id="1st-badge">1-10
+                <img class="img-icons" src="../img/icons/015-crown-1.png"> </img>
+            </div>
+            <div id="2nd-badge">10-25</div>
+            <div id="3rd-badge">25-50</div>
+            <div id="4th-badge">50+</div>
+        </div>
         </select>
+
         <input type="submit" value="Save Settings">
 
         <!--import extension helper library -->
         <script src="https://extension-files.twitch.tv/helper/v1/twitch-ext.min.js"></script>
+
+
+
+        <!--<div>Icons made by <a href="https://www.flaticon.com/authors/good-ware" 
+          title="Good Ware">Good Ware</a> from <a href="https://www.flaticon.com/"     
+          title="Flaticon">www.flaticon.com</a></div>-->
 </body>
 
 </html>

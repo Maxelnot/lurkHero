@@ -1,7 +1,7 @@
 {
   "allowHttpBackend": false,
   "backendCommand": "node backend -c \"o2763r2rgkw63vl9qhpqauq1nex2et\" -s \"g1iakUvy4Jxiz5h0f7NvOFK8C768ZxSPCcPnKjP4hgo=\" -o \"45047402\"",
-  "backendFolderName": "extensions-hello-world/services",
+  "backendFolderName": "/Users/maxelnot/Documents/twitchDev/lurkHero/services",
   "certificateExceptions": [],
   "extensionViews": [
     {
@@ -90,7 +90,7 @@
     "whitelistedPanelUrls": []
   },
   "frontendCommand": "",
-  "frontendFolderName": "extensions-hello-world/public",
+  "frontendFolderName": "/Users/maxelnot/Documents/twitchDev/lurkHero/public",
   "name": "Leveling",
   "version": 1
 }

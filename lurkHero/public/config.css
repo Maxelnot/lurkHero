@@ -1,4 +1,9 @@
-.lvlIcons {
+.lvl-icons {
     display: flex;
     flex-direction: row;
+}
+
+.img-icons {
+    width: 400px;
+    height: 400px;
 }
